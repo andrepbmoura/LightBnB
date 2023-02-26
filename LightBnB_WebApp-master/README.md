@@ -50,3 +50,12 @@ A simple multi-page airbnb clone that uses a server side Javascript to display t
 - Install all dependencies (using the `npm install` command via terminal).
 - Run the Webapp `npm run local` and view the website at `localhost:3000`.
 - The Webapp will be available at `http://localhost:3000/`
+
+  ## Dependencies
+
+- bcrypt
+- body-parser
+- cookie-session
+- express
+- nodemon
+- pg
