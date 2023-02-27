@@ -46,23 +46,32 @@ A simple multi-page airbnb clone that uses a server side Javascript to display t
   * `database.js` is responsible for all queries to the database. It doesn't currently connect to any database, all it does is return data from `.json` files.
 
 
-  **Main Tweeter Page**
+  **ERD**
 
-!["Screenshot of main Tweeter page"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter01.jpeg)
+!["Screenshot of LightBnB ERD"](https://github.com/andrepbmoura/LightBnB/blob/main/images/LightBnBimage.png)
 
-**Main Tweeter Page with an Error Message when Submitting an Empty Tweet**
+**Home page**
 
-!["Screenshot of main Tweeter page with error message"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter02.jpeg)
+!["Screenshot of LightBnB Home page"](https://github.com/andrepbmoura/LightBnB/blob/main/images/Main%20page%20screenshot.jpeg)
 
-**Main Tweeter page with an Error Message when Submitting a Tweet that is Too Long**
+**Login page**
 
-!["Screenshot of main Tweeter page with error message"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter04.jpeg)
+!["Screenshot of LightBnB Login page"](https://github.com/andrepbmoura/LightBnB/blob/main/images/loginpage.jpeg)
 
 
-**Condensed Tweeter Page for Mobile View**
+**Signup Page**
 
-!["Screenshot of small main Tweeter page"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter03.jpeg)
+!["Screenshot of LightBnB Signup page"](https://github.com/andrepbmoura/LightBnB/blob/main/images/signup.jpeg)
 
+
+**My listings page**
+
+!["Screenshot of LightBnB My listings page"](https://github.com/andrepbmoura/LightBnB/blob/main/images/Mylistings.jpeg)
+
+
+**Create listing page**
+
+!["Screenshot of LightBnB Create listing page"](https://github.com/andrepbmoura/LightBnB/blob/main/images/createlisting.jpeg)
 
   ## Getting Started
 
