@@ -45,6 +45,25 @@ A simple multi-page airbnb clone that uses a server side Javascript to display t
   * `json` is a directory that contains a bunch of dummy data in `.json` files.
   * `database.js` is responsible for all queries to the database. It doesn't currently connect to any database, all it does is return data from `.json` files.
 
+
+  **Main Tweeter Page**
+
+!["Screenshot of main Tweeter page"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter01.jpeg)
+
+**Main Tweeter Page with an Error Message when Submitting an Empty Tweet**
+
+!["Screenshot of main Tweeter page with error message"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter02.jpeg)
+
+**Main Tweeter page with an Error Message when Submitting a Tweet that is Too Long**
+
+!["Screenshot of main Tweeter page with error message"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter04.jpeg)
+
+
+**Condensed Tweeter Page for Mobile View**
+
+!["Screenshot of small main Tweeter page"](https://github.com/andrepbmoura/tweeter/blob/master/public/images/Tweeter03.jpeg)
+
+
   ## Getting Started
 
 - Install all dependencies (using the `npm install` command via terminal).
